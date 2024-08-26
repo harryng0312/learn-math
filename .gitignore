@@ -2,3 +2,4 @@
 **/data
 **/support_files
 .DS_Store
+**/*.zip
